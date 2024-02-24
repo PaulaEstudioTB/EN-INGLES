@@ -1,0 +1,130 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: LANDING-PAGE-v1.ai
+Modo de color: Color RGB
+Perfil de color: ninguno
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1366 px x 7128,2944 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Roboto Black (OTF)
+Roboto Thin (TrueType)
+Roboto Bold (OTF)
+Roboto Regular (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\molina-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 882K, 900 por 251 píxeles
+Dimensiones: 248,145 por 69,205 puntos 
+Resolución: 261,138 por 261,138 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\fidem-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1939K, 1163 por 427 píxeles
+Dimensiones: 177,776 por 65,271 puntos 
+Resolución: 471,021 por 471,021 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\sicpa-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 3164K, 900 por 900 píxeles
+Dimensiones: 97,492 por 97,492 puntos 
+Resolución: 664,672 por 664,672 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\provincia-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 312K, 400 por 200 píxeles
+Dimensiones: 193,839 por 96,919 puntos 
+Resolución: 148,577 por 148,577 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\nordex-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1181K, 550 por 550 píxeles
+Dimensiones: 193,337 por 193,337 puntos 
+Resolución: 204,824 por 204,824 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\nerdo-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 112K, 300 por 96 píxeles
+Dimensiones: 151,022 por 48,327 puntos 
+Resolución: 143,025 por 143,025 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\JLL-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 2860K, 1280 por 572 píxeles
+Dimensiones: 106,632 por 47,651 puntos 
+Resolución: 864,284 por 864,284 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\dass-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 452K, 573 por 202 píxeles
+Dimensiones: 125,274 por 44,163 puntos 
+Resolución: 329,327 por 329,327 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\growup-gris.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 6904K, 2048 por 863 píxeles
+Dimensiones: 140,946 por 59,393 puntos 
+Resolución: 1046,189 por 1046,189 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\papeles-comerciales-naturaleza-muerta-varias-piezas-mecanismo.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 52853K, 5202 por 3468 píxeles
+Dimensiones: 1387,829 por 925,22 puntos 
+Resolución: 269,878 por 269,878 píxeles por pulgada

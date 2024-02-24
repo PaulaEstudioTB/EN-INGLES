@@ -1,0 +1,5 @@
+Para tener en cuenta en la programación:
+
+Que el top quede fijo al navegar, para poder moverse más libremente (así o de alguna otra forma, creo que habían mencionado dejar un menú flotante).
+En la parte de programas, que se marque con color la opción seleccionada en el menú (cursos anuales, talleres, etc.).
+Poner un mensaje de agradecimiento cuando completan el form: Tu mensaje se envió correctamente. ¡Te responderemos en breve!

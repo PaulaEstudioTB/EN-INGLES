@@ -1,0 +1,85 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: programas-empreas-activo.ai
+Modo de color: Color RGB
+Perfil de color: ninguno
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1366 px x 719,5765 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Roboto Black (OTF)
+Roboto Thin (TrueType)
+Roboto Bold (OTF)
+Roboto Regular (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+D:\WORK\MOWBRAND\01-WEB\04-BANNER-CLIENTES-3.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2390K, 1770 por 461 píxeles
+Dimensiones: 451,637 por 117,63 puntos 
+Resolución: 282,173 por 282,173 píxeles por pulgada
+
+
+D:\WORK\MOWBRAND\01-WEB\04-BANNER-CLIENTES-4.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2390K, 1770 por 461 píxeles
+Dimensiones: 451,637 por 117,63 puntos 
+Resolución: 282,173 por 282,173 píxeles por pulgada
+
+
+D:\WORK\MOWBRAND\01-WEB\04-BANNER-CLIENTES-1.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2390K, 1770 por 461 píxeles
+Dimensiones: 457,275 por 119,098 puntos 
+Resolución: 278,694 por 278,694 píxeles por pulgada
+
+
+D:\WORK\MOWBRAND\01-WEB\04-BANNER-CLIENTES-2.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 2390K, 1770 por 461 píxeles
+Dimensiones: 451,99 por 117,722 puntos 
+Resolución: 281,953 por 281,953 píxeles por pulgada
+
+
+D:\WORK\GFE\0141-EN-INGLES\2024\LANDING-PAGE\elementos\papeles-comerciales-naturaleza-muerta-varias-piezas-mecanismo.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 52853K, 5202 por 3468 píxeles
+Dimensiones: 1387,829 por 925,22 puntos 
+Resolución: 269,878 por 269,878 píxeles por pulgada
